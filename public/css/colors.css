@@ -1,6 +1,6 @@
 body
 {
-	color: #76665e;
+	color: #1A1C1D;
 }
 ::selection
 {
@@ -38,11 +38,11 @@ ul.slides
 }
 div.main-menu
 {
-	background-color: #39C0C5;
+	background-color: rgba(25, 190, 190, 0.96);
 }
 div.main-menu nav ul li.active, div.main-menu nav ul li:hover 
 {
-	background-color: #1CD5DB;
+	background-color: rgba(20, 173, 173, 0.98);
 }
 div.main-menu nav a
 {
@@ -50,11 +50,11 @@ div.main-menu nav a
 }
 div.section h2
 {
-	color: #3f3532;
+	color: #1A1C1D;
 }
 section h4
 {
-	color: #3f3532;
+	color: #000;
 }
 div.section logo-font
 {
@@ -87,7 +87,7 @@ div.book-title
 p.featured-work-section-title, p.portfolio-section-title, p.blog-section-title a, 
 p.about-section-title, p.skill-section-title, p.contact-section-title
 {
-	color: #3f3532;
+	color: #000;
 }
 p.blog-section-title a:hover
 {
@@ -152,7 +152,7 @@ a.sign-up-link
 }
 .pricing-table-big-content-holder
 {
-	background-color: #83746D;
+	background-color: rgba(28, 151, 52, 0.49);
 }
 .pricing-table-big-title
 {
@@ -168,16 +168,16 @@ ul.pricing-table-big-content li
 }
 .pricing-table-big-price
 {
-	background-color: #38302D;
+	background-color: rgba(233, 16, 16, 0.8);
 	color: white;
 }
 .pricin-table-big-sign-up
 {
-	background-color: #C52F30;	
+	background-color: rgba(236, 43, 43, 0.8);	
 }
 .pricin-table-big-sign-up:hover
 {
-	background-color: #9e2728;	
+	background-color: rgba(236, 43, 43, 0.8);
 }
 .progress_bar_field_holder
 {
@@ -244,6 +244,6 @@ a.button-border.white
 }
 a.button-border.white:hover
 {
-	color: #ddd5cc;
-	border-color: #ddd5cc;
+	color: #fff;
+	border-color: #fff;
 }
