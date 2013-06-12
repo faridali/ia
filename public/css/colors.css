@@ -38,11 +38,11 @@ ul.slides
 }
 div.main-menu
 {
-	background-color: rgba(25, 190, 190, 0.96);
+	background-color: rgba(40, 184, 190, 0.95);
 }
 div.main-menu nav ul li.active, div.main-menu nav ul li:hover 
 {
-	background-color: rgba(20, 173, 173, 0.98);
+	background-color: rgba(30, 176, 182, 0.80);
 }
 div.main-menu nav a
 {
