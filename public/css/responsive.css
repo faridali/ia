@@ -281,6 +281,11 @@ a.button-border.big
 	font-size: 14px;	
 }
 
+input
+{
+    width:96%;
+}
+
 .small-menu-wrapper
 {
 	width: 85%;
